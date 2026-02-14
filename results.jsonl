@@ -1,0 +1,400 @@
+{"context_len": 10, "needle_pos": "start", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 10, "needle_pos": "start", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 10, "needle_pos": "early", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 10, "needle_pos": "middle", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction for exceptional research contributions.", "gold_answer": "Inglewood Distinction"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 10, "needle_pos": "late", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 10, "needle_pos": "end", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 30, "needle_pos": "start", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction for exceptional research contributions.", "gold_answer": "Inglewood Distinction"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 30, "needle_pos": "early", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 30, "needle_pos": "middle", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 30, "needle_pos": "late", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 30, "needle_pos": "end", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 80, "needle_pos": "start", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 1, "correct": false, "model_answer": "Brightford University", "gold_answer": "Silverdale University"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 6, "correct": false, "model_answer": "Brightford University", "gold_answer": "Thornhill College"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 80, "needle_pos": "early", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 80, "needle_pos": "middle", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 80, "needle_pos": "late", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 80, "needle_pos": "end", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 150, "needle_pos": "start", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction for exceptional research contributions.", "gold_answer": "Inglewood Distinction"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 6, "correct": false, "model_answer": "Brightford University", "gold_answer": "Thornhill College"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 12, "correct": false, "model_answer": "evolutionary biology", "gold_answer": "cognitive neuroscience"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 18, "correct": false, "model_answer": "1928", "gold_answer": "1931"}
+{"context_len": 150, "needle_pos": "early", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction for outstanding contributions", "gold_answer": "Inglewood Distinction"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 6, "correct": false, "model_answer": "Brightford University", "gold_answer": "Thornhill College"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 12, "correct": false, "model_answer": "evolutionary biology", "gold_answer": "cognitive neuroscience"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 13, "correct": false, "model_answer": "1945", "gold_answer": "1939"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 14, "correct": false, "model_answer": "Brightford", "gold_answer": "Clearwater"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 17, "correct": false, "model_answer": "organic chemistry", "gold_answer": "marine biology"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 150, "needle_pos": "middle", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction for exceptional research contributions.", "gold_answer": "Inglewood Distinction"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 6, "correct": false, "model_answer": "Lakewood Institute", "gold_answer": "Thornhill College"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize for exceptional research contributions.", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 150, "needle_pos": "late", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 0, "correct": true, "model_answer": "Inglewood Distinction", "gold_answer": "Inglewood Distinction"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 1, "correct": true, "model_answer": "Silverdale University", "gold_answer": "Silverdale University"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 2, "correct": true, "model_answer": "biomedical engineering", "gold_answer": "biomedical engineering"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 3, "correct": true, "model_answer": "1989", "gold_answer": "1989"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 4, "correct": true, "model_answer": "Eastmoor", "gold_answer": "Eastmoor"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 5, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 6, "correct": true, "model_answer": "Thornhill College", "gold_answer": "Thornhill College"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 7, "correct": true, "model_answer": "geopolitical strategy", "gold_answer": "geopolitical strategy"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 8, "correct": true, "model_answer": "1969", "gold_answer": "1969"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 9, "correct": true, "model_answer": "Ridgemont", "gold_answer": "Ridgemont"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 10, "correct": true, "model_answer": "Whitfield Medal", "gold_answer": "Whitfield Medal"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 11, "correct": true, "model_answer": "Ashford College", "gold_answer": "Ashford College"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 12, "correct": true, "model_answer": "cognitive neuroscience", "gold_answer": "cognitive neuroscience"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 13, "correct": true, "model_answer": "1939", "gold_answer": "1939"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 14, "correct": true, "model_answer": "Clearwater", "gold_answer": "Clearwater"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 15, "correct": true, "model_answer": "Northcott Prize", "gold_answer": "Northcott Prize"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 16, "correct": true, "model_answer": "Pinecrest School of Sciences", "gold_answer": "Pinecrest School of Sciences"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 17, "correct": true, "model_answer": "marine biology", "gold_answer": "marine biology"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 18, "correct": true, "model_answer": "1931", "gold_answer": "1931"}
+{"context_len": 150, "needle_pos": "end", "trial_id": 19, "correct": true, "model_answer": "Willowbrook", "gold_answer": "Willowbrook"}
